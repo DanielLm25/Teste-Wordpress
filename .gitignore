@@ -1,0 +1,13 @@
+# Ignorar arquivos de configuração locais
+wp-config.php
+
+# Ignorar uploads
+wp-content/uploads/
+
+# Ignorar cache e arquivos temporários
+wp-content/cache/
+wp-content/backups/
+
+# Ignorar o diretório de plugins e temas temporários
+wp-content/plugins/
+wp-content/themes/
